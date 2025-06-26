@@ -11,7 +11,7 @@ A sample Flutter app using Riverpod 2.0 (AsyncNotifier) and dio, demonstrating m
   - `repository/`: Business logic abstraction
   - `presentation/`: UI, screens, providers
 - **State Management**: Riverpod 2.0 AsyncNotifier for both GET and POST flows.
-- **Networking**: Uses dio for HTTP requests.
+- **Networking**: Uses dio for HTTP requests..
 
 ## Folder Structure
 
